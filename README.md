@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-title: Site do Professor Marcel
+title: Site do Marcel
 description: Seja bem-vindo!
